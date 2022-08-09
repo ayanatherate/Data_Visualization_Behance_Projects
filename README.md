@@ -12,7 +12,7 @@ Official documentation Power BI REST API:
 
 
 
-Final Output (Notebook):
+Output (Notebook):
 
 ![image](https://user-images.githubusercontent.com/59755186/183741834-b9e1d579-27c2-4ee4-bfdb-6b7457ec6e15.png)
 
