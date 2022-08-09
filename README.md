@@ -12,5 +12,6 @@ Official documentation Power BI REST API:
 
 Final Output:
 
-![image](https://user-images.githubusercontent.com/59755186/183735291-fd037471-8fd1-4df2-a8cc-22f732065c28.png)
+![image](![image](https://user-images.githubusercontent.com/59755186/183738797-355a7002-7593-403d-a879-9b196784c403.png)
+)
 
