@@ -14,7 +14,8 @@ Official documentation Power BI REST API:
 
 Final Output (Notebook):
 
-![image](https://user-images.githubusercontent.com/59755186/183739131-18fddf5d-4850-4a38-bdcd-6d48e8055a84.png)
+![image](https://user-images.githubusercontent.com/59755186/183740410-5f26a728-9727-44f6-8ff7-fe8222e7e318.png)
+
 
 
 Jpeg image of report:
