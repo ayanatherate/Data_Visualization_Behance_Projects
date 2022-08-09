@@ -10,7 +10,10 @@ requirements:
 Official documentation Power BI REST API:
 <a href="https://docs.microsoft.com/en-us/rest/api/power-bi/"> Click here </a>
 
+
+
 Final Output:
 
-![image](https://user-images.githubusercontent.com/59755186/183738961-622142ed-802d-4210-81ef-c598dd3cfd42.png)
+![image](https://user-images.githubusercontent.com/59755186/183739131-18fddf5d-4850-4a38-bdcd-6d48e8055a84.png)
+
 
