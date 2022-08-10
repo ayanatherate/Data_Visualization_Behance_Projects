@@ -2,7 +2,8 @@
 Creating and publishing an EDA Visualization Report in Power BI and accessing a responsive &amp; customizable version of the same on Jupyter Notebook using using PowerBI API
 
 Dataset used for building the EDA report on Power BI:
-[New Report.xlsx](https://github.com/ayanatherate/Embed_powerbi_jupyternotebook/files/9297061/New.Report.xlsx)
+[New Report (1).xlsx](https://github.com/ayanatherate/Embed_powerbi_jupyternotebook/files/9297079/New.Report.1.xlsx)
+
 
 
 requirements:
