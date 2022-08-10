@@ -1,6 +1,10 @@
 # Embed_powerbi_jupyternotebook
 Creating and publishing an EDA Visualization Report in Power BI and accessing a responsive &amp; customizable version of the same on Jupyter Notebook using using PowerBI API
 
+Dataset used for building the EDA report on Power BI:
+[New Report.xlsx](https://github.com/ayanatherate/Embed_powerbi_jupyternotebook/files/9297061/New.Report.xlsx)
+
+
 requirements:
 
 !pip install python-power-bi
